@@ -189,6 +189,10 @@ msgstr "内容"
 msgid "Send"
 msgstr "送信"
 
+#: Template/Templates/project001.ctp:215
+msgid "this usually takes about 60 seconds for checking rank..."
+msgstr "順位取得は60秒ぐらいかかる場合もあります。少々お待ちください"
+
 #: Template/Templates/testapi.ctp:11
 msgid "Input Keyword"
 msgstr "キーワードを入力してください"

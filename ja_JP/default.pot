@@ -76,6 +76,49 @@ msgstr "キーワード"
 msgid "System Name"
 msgstr "システム名"
 
+#: Template/Logs/result_rank.ctp:12
+#: Template/Templates/project001.ctp:21
+#: Template/Templates/testapi.ctp:10
+msgid "Keyword"
+msgstr "キーワード"
+
+#: Template/Logs/result_rank.ctp:16
+#: Template/Templates/project001.ctp:29
+#: Template/Templates/testapi.ctp:14
+msgid "Url"
+msgstr "Url"
+
+#: Template/Logs/result_rank.ctp:20
+#: Template/Templates/testapi.ctp:22
+msgid "Engine"
+msgstr "エンジン"
+
+#: Template/Logs/result_rank.ctp:24
+#: Template/Templates/project001.ctp:60
+#: Template/Templates/testapi.ctp:26
+msgid "Device"
+msgstr "端末"
+
+#: Template/Logs/result_rank.ctp:28
+msgid "Rank"
+msgstr "順位"
+
+#: Template/Logs/result_rank.ctp:33
+msgid "Search Again"
+msgstr "再チェック"
+
+#: Template/Logs/result_rank.ctp:37
+msgid "Automatic tracking Keywords Daily."
+msgstr "自動順位チェックする"
+
+#: Template/Logs/result_rank.ctp:38
+msgid "Create Free Account"
+msgstr "無料アカウント登録する"
+
+#: Template/Logs/result_rank.ctp:42
+msgid "Track Rankings Daily!"
+msgstr "自動順位取得する"
+
 #: Template/Templates/project001.ctp:4
 msgid "SEO TOOLs"
 msgstr "SEOツール"

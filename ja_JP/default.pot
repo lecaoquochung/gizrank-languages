@@ -1,14 +1,14 @@
 # LANGUAGE translation of CakePHP Application
-# Copyright YEAR NAME <EMAIL@ADDRESS>
+# Copyright 2015 <admin@gizrank.com>
 #
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: PROJECT VERSION\n"
+"Project-Id-Version: GIZRANK-CLIENT V1.0\n"
 "POT-Creation-Date: 2015-05-20 16:52+0900\n"
 "PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
-"Last-Translator: NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"Last-Translator: Le Hung <le.hung@givery.co.jp>\n"
+"Language-Team: GIZRANK <admin@gizrank.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -16,100 +16,100 @@ msgstr ""
 
 #: Controller/Admin/UsersController.php:31
 msgid "Invalid username or password, try again"
-msgstr ""
+msgstr "パスワードまたユーザー名は正しく入力してありません"
 
 #: Template/Admin/Logs/index.ctp:10
 msgid "KeyID"
-msgstr ""
+msgstr "KeyID"
 
 #: Template/Admin/Logs/index.ctp:11
 msgid "Keyword/Url"
-msgstr ""
+msgstr "キーワード/URL"
 
 #: Template/Admin/Users/login.ctp:16
 #: Template/Templates/project001.ctp:116
 msgid "Email"
-msgstr ""
+msgstr "Eメール"
 
 #: Template/Admin/Users/login.ctp:21
 msgid "Password"
-msgstr ""
+msgstr "パスワード"
 
 #: Template/Admin/Users/login.ctp:28
 msgid "Remember Me"
-msgstr ""
+msgstr "次回から自動的にログインする"
 
 #: Template/Element/header.ctp:39
 #: Template/Element/Admin/header.ctp:39
 msgid "Sign out"
-msgstr ""
+msgstr "ログアウト"
 
 #: Template/Element/navigation_top.ctp:11
 msgid "Rank Check"
-msgstr ""
+msgstr "順位チェック"
 
 #: Template/Element/navigation_top.ctp:12
 msgid "Features"
-msgstr ""
+msgstr "フィーチャーズ"
 
 #: Template/Element/navigation_top.ctp:13
 msgid "Contact Us"
-msgstr ""
+msgstr "お問い合わせ"
 
 #: Template/Element/paging.ctp:4
-msgid "全{:pages}ページ"
-msgstr ""
+msgid "All{:pages}pages"
+msgstr "全{:pages}ページ"
 
 #: Template/Element/paging.ctp:9
 msgid "Previous"
-msgstr ""
+msgstr "前"
 
 #: Template/Element/paging.ctp:11
 msgid "Next"
-msgstr ""
+msgstr "次"
 
 #: Template/Element/sidebar.ctp:7
 msgid "Keywords"
-msgstr ""
+msgstr "キーワード"
 
 #: Template/Layout/login.ctp:13
 msgid "System Name"
-msgstr ""
+msgstr "システム名"
 
 #: Template/Templates/project001.ctp:4
 msgid "SEO TOOLs"
-msgstr ""
+msgstr "SEOツール"
 
 #: Template/Templates/project001.ctp:10
 msgid "FREE MOBILE RANK TOOLs"
-msgstr ""
+msgstr "無料モバイル順位チェックツール"
 
 #: Template/Templates/project001.ctp:21
 #: Template/Templates/testapi.ctp:10
 msgid "Keyword"
-msgstr ""
+msgstr "キーワード"
 
 #: Template/Templates/project001.ctp:23
 msgid "治療家ナビ or Givery"
-msgstr ""
+msgstr "治療家ナビ or Givery"
 
 #: Template/Templates/project001.ctp:24
 msgid "Keyword Input"
-msgstr ""
+msgstr "キーワードを入力する"
 
 #: Template/Templates/project001.ctp:29
 #: Template/Templates/testapi.ctp:14
 msgid "Url"
-msgstr ""
+msgstr "Url"
 
 #: Template/Templates/project001.ctp:31
 msgid "Url Input"
-msgstr ""
+msgstr "Urlを入力する"
 
 #: Template/Templates/project001.ctp:35
 #: Template/Templates/testapi.ctp:30
 msgid "Language"
-msgstr ""
+msgstr "言語"
 
 #: Template/Templates/project001.ctp:36
 msgid "Language options"
@@ -117,126 +117,126 @@ msgstr ""
 
 #: Template/Templates/project001.ctp:37
 msgid "Languages"
-msgstr ""
+msgstr "言語設定"
 
 #: Template/Templates/project001.ctp:44
 msgid "Search Engine"
-msgstr ""
+msgstr "検索エンジン"
 
 #: Template/Templates/project001.ctp:45;61
 msgid "Select one"
-msgstr ""
+msgstr "選択"
 
 #: Template/Templates/project001.ctp:60
 #: Template/Templates/testapi.ctp:26
 msgid "Device"
-msgstr ""
+msgstr "端末"
 
 #: Template/Templates/project001.ctp:65
 msgid "Mobile"
-msgstr ""
+msgstr "モバイル"
 
 #: Template/Templates/project001.ctp:69
 msgid "PC"
-msgstr ""
+msgstr "PC"
 
 #: Template/Templates/project001.ctp:75
 msgid "Local Search"
-msgstr ""
+msgstr "ローカル検索"
 
 #: Template/Templates/project001.ctp:77
 msgid "Ex: Tokyo"
-msgstr ""
+msgstr "例：東京"
 
 #: Template/Templates/project001.ctp:84
 #: Template/Templates/testapi.ctp:5
 msgid "Check Rank"
-msgstr ""
+msgstr "順位チェック"
 
 #: Template/Templates/project001.ctp:84
 msgid " System is fetching your rankings!"
-msgstr ""
+msgstr "順位を取得中！"
 
 #: Template/Templates/project001.ctp:101
 msgid "Address"
-msgstr ""
+msgstr "住所"
 
 #: Template/Templates/project001.ctp:103
 msgid "Shibuya, Tokyo Japan"
-msgstr ""
+msgstr "渋谷、東京"
 
 #: Template/Templates/project001.ctp:108
 msgid "Contact"
-msgstr ""
+msgstr "お問い合わせ"
 
 #: Template/Templates/project001.ctp:112
 msgid "Name"
-msgstr ""
+msgstr "お名前"
 
 #: Template/Templates/project001.ctp:113
 msgid "Input your name"
-msgstr ""
+msgstr "お名前を入力してください"
 
 #: Template/Templates/project001.ctp:117
 msgid "Input your email"
-msgstr ""
+msgstr "Eメールを入力してください"
 
 #: Template/Templates/project001.ctp:120
 msgid "Content"
-msgstr ""
+msgstr "内容"
 
 #: Template/Templates/project001.ctp:125
 msgid "Send"
-msgstr ""
+msgstr "送信"
 
 #: Template/Templates/testapi.ctp:11
 msgid "Input Keyword"
-msgstr ""
+msgstr "キーワードを入力してください"
 
 #: Template/Templates/testapi.ctp:15
 msgid "Input Url"
-msgstr ""
+msgstr "Urlを入力してください"
 
 #: Template/Templates/testapi.ctp:18
 msgid "Strict"
-msgstr ""
+msgstr "完全一致"
 
 #: Template/Templates/testapi.ctp:22
 msgid "Engine"
-msgstr ""
+msgstr "エンジン"
 
 #: Template/Templates/testapi.ctp:34
 msgid "Locale"
-msgstr ""
+msgstr "ローカル"
 
 #: Template/Error/error400.ctp:33
 #: Template/Error/error500.ctp:35
 msgid "Error"
-msgstr ""
+msgstr "エラー"
 
 #: Template/Error/error400.ctp:35
 msgid "The requested address %s was not found on this server."
-msgstr ""
+msgstr "%sのリクエストアドレスはサーバーの上に見つかれません"
 
 #: Template/Error/error500.ctp:33
 msgid "An Internal Error Has Occurred"
-msgstr ""
+msgstr "インターナルエラーが発生しました。"
 
 #: Controller/Component/AuthComponent.php:435
 msgid "You are not authorized to access that location."
-msgstr ""
+msgstr "アクセス権限がありません"
 
 #: Controller/Component/CsrfComponent.php:148
 msgid "Invalid CSRF token."
-msgstr ""
+msgstr "無効なCSRFトークン"
 
 #: Error/ExceptionRenderer.php:225
 msgid "Not Found"
-msgstr ""
+msgstr "見つかれません"
 
 #: Error/ExceptionRenderer.php:227
 msgid "An Internal Error Has Occurred."
-msgstr ""
+msgstr "インターナルエラーが発生しました。"
 
 #: I18n/Number.php:75
 msgid "{0,number,#,###.##} KB"
@@ -270,55 +270,55 @@ msgstr ""
 
 #: I18n/Time.php:288
 msgid "just now"
-msgstr ""
+msgstr "たった今"
 
 #: I18n/Time.php:404
 msgid "about a second ago"
-msgstr ""
+msgstr "1s前"
 
 #: I18n/Time.php:405
 msgid "about a minute ago"
-msgstr ""
+msgstr "1分前"
 
 #: I18n/Time.php:406
 msgid "about an hour ago"
-msgstr ""
+msgstr "1時前"
 
 #: I18n/Time.php:407
 msgid "about a day ago"
-msgstr ""
+msgstr "1日前"
 
 #: I18n/Time.php:408
 msgid "about a week ago"
-msgstr ""
+msgstr "一週間前"
 
 #: I18n/Time.php:409
 msgid "about a year ago"
-msgstr ""
+msgstr "一年前"
 
 #: I18n/Time.php:418
 msgid "in about a second"
-msgstr ""
+msgstr "1s前"
 
 #: I18n/Time.php:419
 msgid "in about a minute"
-msgstr ""
+msgstr "1分前"
 
 #: I18n/Time.php:420
 msgid "in about an hour"
-msgstr ""
+msgstr "1時前"
 
 #: I18n/Time.php:421
 msgid "in about a day"
-msgstr ""
+msgstr "1日前"
 
 #: I18n/Time.php:422
 msgid "in about a week"
-msgstr ""
+msgstr "一週間前"
 
 #: I18n/Time.php:423
 msgid "in about a year"
-msgstr ""
+msgstr "一年前"
 
 #: I18n/Time.php:377
 msgid "{0} year"
@@ -364,93 +364,93 @@ msgstr[1] ""
 
 #: Network/Response.php:1390
 msgid "The requested file was not found"
-msgstr ""
+msgstr "リクエストファイルは見つかれません"
 
 #: ORM/RulesChecker.php:317
 msgid "This value is already in use"
-msgstr ""
+msgstr "この値は事前に使っています"
 
 #: ORM/RulesChecker.php:351
 msgid "This value does not exist"
-msgstr ""
+msgstr "この値は存在しません"
 
 #: Utility/Text.php:661
 msgid "and"
-msgstr ""
+msgstr "&"
 
 #: Validation/Validator.php:97
 msgid "This field is required"
-msgstr ""
+msgstr "このフィールドは必須です"
 
 #: Validation/Validator.php:98
 msgid "This field cannot be left empty"
-msgstr ""
+msgstr "このフィールドは必須です"
 
 #: Validation/Validator.php:563
 msgid "The provided value is invalid"
-msgstr ""
+msgstr "無効の値です"
 
 #: View/Helper/FormHelper.php:934
 msgid "New %s"
-msgstr ""
+msgstr "追加 %s"
 
 #: View/Helper/FormHelper.php:937
 msgid "Edit %s"
-msgstr ""
+msgstr "編集 %s"
 
 #: View/Helper/FormHelper.php:1721
 msgid "Submit"
-msgstr ""
+msgstr "送信"
 
 #: View/Helper/HtmlHelper.php:749
 msgid "Home"
-msgstr ""
+msgstr "ホーム"
 
 #: View/Widget/DateTimeWidget.php:497
 msgid "January"
-msgstr ""
+msgstr "1月"
 
 #: View/Widget/DateTimeWidget.php:498
 msgid "February"
-msgstr ""
+msgstr "2月"
 
 #: View/Widget/DateTimeWidget.php:499
 msgid "March"
-msgstr ""
+msgstr "3月"
 
 #: View/Widget/DateTimeWidget.php:500
 msgid "April"
-msgstr ""
+msgstr "4月"
 
 #: View/Widget/DateTimeWidget.php:501
 msgid "May"
-msgstr ""
+msgstr "5月"
 
 #: View/Widget/DateTimeWidget.php:502
 msgid "June"
-msgstr ""
+msgstr "6月"
 
 #: View/Widget/DateTimeWidget.php:503
 msgid "July"
-msgstr ""
+msgstr "7月"
 
 #: View/Widget/DateTimeWidget.php:504
 msgid "August"
-msgstr ""
+msgstr "8月"
 
 #: View/Widget/DateTimeWidget.php:505
 msgid "September"
-msgstr ""
+msgstr "9月"
 
 #: View/Widget/DateTimeWidget.php:506
 msgid "October"
-msgstr ""
+msgstr "10月"
 
 #: View/Widget/DateTimeWidget.php:507
 msgid "November"
-msgstr ""
+msgstr "11月"
 
 #: View/Widget/DateTimeWidget.php:508
 msgid "December"
-msgstr ""
+msgstr "12月"
 

@@ -236,6 +236,18 @@ msgstr "送信"
 msgid "this usually takes about 60 seconds for checking rank..."
 msgstr "順位取得は60秒ぐらいかかる場合もあります。少々お待ちください"
 
+#: Template/Templates/project001.ctp:281
+msgid "Completed! Check out your result!"
+msgstr "完了！結果ページを見ましょう！"
+
+#: Template/Templates/project001.ctp:282
+msgid "See Rankings"
+msgstr "順位を確認すす"
+
+#: Template/Templates/project001.ctp:286
+msgid "Error check rank."
+msgstr "エラー:順位をチェックできません"
+
 #: Template/Templates/testapi.ctp:11
 msgid "Input Keyword"
 msgstr "キーワードを入力してください"

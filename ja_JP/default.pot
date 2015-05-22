@@ -14,6 +14,22 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
 
+#: Controller/TemplatesController.php:67
+msgid "this usually takes about 60 seconds for accurate rankings data..."
+msgstr "順位取得は60秒ぐらいかかる場合もあります。少々お待ちください"
+
+#: Controller/TemplatesController.php:67
+msgid "Completed! Check out your result!"
+msgstr "完了しました。順位を確認しましょう！"
+
+#: Controller/TemplatesController.php:67
+msgid "See Ranking Result"
+msgstr "結果ページで見る"
+
+#: Controller/TemplatesController.php:67
+msgid "GIZRANK CONTACT FORM"
+msgstr "【GIZRANK】お問い合わせがあります。"
+
 #: Controller/Admin/UsersController.php:31
 msgid "Invalid username or password, try again"
 msgstr "パスワードまたユーザー名は正しく入力してありません"
@@ -231,6 +247,10 @@ msgstr "内容"
 #: Template/Templates/project001.ctp:125
 msgid "Send"
 msgstr "送信"
+
+#: Template/Templates/project001.ctp:294
+msgid "Error002: API request timeout."
+msgstr "エラー002: APIリクエスト時間が長いすぎました。"
 
 #: Template/Templates/project001.ctp:215
 msgid "this usually takes about 60 seconds for checking rank..."
